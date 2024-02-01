@@ -26,7 +26,7 @@ const Contact = () => {
       </Container> 
    <Container className='d-block d-flex mt-5'>
       <Card  className='d-block border-light text-center ' style={{width:'350px'}}>
-        <Card.Img variant="top" src={yt} className='img rounded-circle ' style={{height:'300px', width:'280px'}}/>
+        <Card.Img variant="top" src={yt} className='img rounded-circle ' style={{height:'300px', width:'280px'}} />
         <Card.Body>
          <Card.Title>YT : Lonelydevil Creations</Card.Title>
          <Card.Text>
@@ -39,7 +39,7 @@ const Contact = () => {
       </Container> 
       <Container className='d-block d-flex mt-5'>
       <Card  className='d-block border-light text-center ' style={{width:'350px'}}>
-        <Card.Img variant="top" src={insta} className='img rounded-circle ' style={{height:'300px', width:'280px'}}/>
+        <Card.Img variant="top" src={insta} className='img rounded-circle ' style={{height:'300px', width:'280px'}} />
         <Card.Body>
          <Card.Title>INSTA ID : @lordlonelydevil</Card.Title>
          <Card.Text>

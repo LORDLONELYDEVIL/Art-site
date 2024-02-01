@@ -24,7 +24,7 @@ const Potraits = () => {
         <Col >
         <Container >
       <Card  className='d-block border-light text-center ' style={{width:'350px'}}>
-        <Card.Img variant="top" src={pot1} className=' border border-5 border-dark' style={{height:'450px', width:'300px'}}/>
+        <Card.Img variant="top" src={pot1} className=' border border-5 border-dark' style={{height:'450px', width:'300px'}} alt='img-art'/>
         <Card.Body>
         <Card.Title> Rs.999.00 </Card.Title>
         
@@ -37,7 +37,7 @@ const Potraits = () => {
         </Col>
         <Col >  <Container >
       <Card  className='d-block border-light text-center ' style={{width:'350px'}}>
-        <Card.Img variant="top" src={pot2} className=' border border-5 border-dark' style={{height:'450px', width:'300px'}}/>
+        <Card.Img variant="top" src={pot2} className=' border border-5 border-dark' style={{height:'450px', width:'300px'}} alt='img-art'/>
         <Card.Body>
         <Card.Title> Rs.800.00 </Card.Title>
         
@@ -54,7 +54,7 @@ const Potraits = () => {
       
         <Col  >  <Container >
       <Card  className='d-block border-light text-center ' style={{width:'350px'}}>
-        <Card.Img variant="top" src={pot3} className=' border border-5 border-dark' style={{height:'430px', width:'300px'}}/>
+        <Card.Img variant="top" src={pot3} className=' border border-5 border-dark' style={{height:'430px', width:'300px'}} />
         <Card.Body>
         
         <Card.Title> Rs.700.00 </Card.Title>
@@ -65,7 +65,7 @@ const Potraits = () => {
       </Container> </Col>
         <Col >  <Container >
       <Card  className='d-block border-light text-center ' style={{width:'350px'}}>
-        <Card.Img variant="top" src={pot4} className=' border border-5 border-dark' style={{height:'430px', width:'300px'}}/>
+        <Card.Img variant="top" src={pot4} className=' border border-5 border-dark' style={{height:'430px', width:'300px'}} />
         
         <Card.Body>
         
